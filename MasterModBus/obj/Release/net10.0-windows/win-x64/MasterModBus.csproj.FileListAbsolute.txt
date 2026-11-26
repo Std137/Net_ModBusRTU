@@ -1,0 +1,17 @@
+D:\work\net_lab\labs1\MasterModBus\bin\Release\net10.0-windows\win-x64\MasterModBus.exe
+D:\work\net_lab\labs1\MasterModBus\bin\Release\net10.0-windows\win-x64\MasterModBus.deps.json
+D:\work\net_lab\labs1\MasterModBus\bin\Release\net10.0-windows\win-x64\MasterModBus.runtimeconfig.json
+D:\work\net_lab\labs1\MasterModBus\bin\Release\net10.0-windows\win-x64\MasterModBus.dll
+D:\work\net_lab\labs1\MasterModBus\bin\Release\net10.0-windows\win-x64\System.IO.Ports.dll
+D:\work\net_lab\labs1\MasterModBus\obj\Release\net10.0-windows\win-x64\MasterModBus.csproj.AssemblyReference.cache
+D:\work\net_lab\labs1\MasterModBus\obj\Release\net10.0-windows\win-x64\MasterModBus.MasterForm.resources
+D:\work\net_lab\labs1\MasterModBus\obj\Release\net10.0-windows\win-x64\MasterModBus.csproj.GenerateResource.cache
+D:\work\net_lab\labs1\MasterModBus\obj\Release\net10.0-windows\win-x64\MasterModBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\net_lab\labs1\MasterModBus\obj\Release\net10.0-windows\win-x64\MasterModBus.AssemblyInfoInputs.cache
+D:\work\net_lab\labs1\MasterModBus\obj\Release\net10.0-windows\win-x64\MasterModBus.AssemblyInfo.cs
+D:\work\net_lab\labs1\MasterModBus\obj\Release\net10.0-windows\win-x64\MasterModBus.csproj.CoreCompileInputs.cache
+D:\work\net_lab\labs1\MasterModBus\obj\Release\net10.0-windows\win-x64\MasterMo.42971943.Up2Date
+D:\work\net_lab\labs1\MasterModBus\obj\Release\net10.0-windows\win-x64\MasterModBus.dll
+D:\work\net_lab\labs1\MasterModBus\obj\Release\net10.0-windows\win-x64\refint\MasterModBus.dll
+D:\work\net_lab\labs1\MasterModBus\obj\Release\net10.0-windows\win-x64\MasterModBus.genruntimeconfig.cache
+D:\work\net_lab\labs1\MasterModBus\obj\Release\net10.0-windows\win-x64\ref\MasterModBus.dll
